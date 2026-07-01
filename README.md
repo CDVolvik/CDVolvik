@@ -6,7 +6,9 @@
 
 <p><i>R21 Digital — Web, Automation & AI for growing businesses</i></p>
 
-<img src="https://komarev.com/ghpvc/?username=CDVolvik&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+`Web Development` · `AI Agents` · `Marketing Automation` · `GEO / AI-Search`
+
+<img src="https://komarev.com/ghpvc/?username=CDVolvik&color=E94560&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 
 </div>
 
@@ -14,10 +16,10 @@
 
 ## 🚀 About Me
 
-- 🏢 I run **[R21 Digital](https://www.r21digital.com/)** (R21 Media Group LLC) — a digital agency in Mesa, Arizona building **websites, marketing automation, and AI systems** for real businesses.
+- 🏢 I run **[R21 Digital](https://www.r21digital.com/)** (R21 Media Group LLC) — a bilingual marketing, automation & AI agency based in Mesa, Arizona, building **websites, automation, and AI systems** for real businesses across the US, Puerto Rico, and Latin America.
 - 🧠 I work end-to-end: **full-stack web** (Next.js + Supabase + Vercel), **automation** (Make.com / n8n), and **AI agents** (Claude, MCP, custom pipelines).
 - 🤝 Open to collaborating on **web apps, automation, and applied-AI** projects.
-- 💬 Ask me about **Next.js, Supabase, AI automation, GEO/AEO, or agency systems**.
+- 💬 Ask me about **Next.js, Supabase, AI automation, GEO/AI-search, or agency systems**.
 - 📫 Reach me: **cjimenez@r21digital.com**
 - ⚡ Fun fact: I orchestrate a fleet of AI agents to run agency work while I sleep.
 
@@ -25,11 +27,11 @@
 
 <div align="left">
 
-[![Website](https://img.shields.io/badge/Website-r21digital.com-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.r21digital.com/)
-[![X](https://img.shields.io/badge/X-@CDVolvik-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CDVolvik)
-[![Email](https://img.shields.io/badge/Email-cjimenez@r21digital.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjimenez@r21digital.com)
+[![Website](https://img.shields.io/badge/Website-r21digital.com-E94560?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.r21digital.com/)
+[![X](https://img.shields.io/badge/X-@CDVolvik-0a0a14?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CDVolvik)
+[![Email](https://img.shields.io/badge/Email-cjimenez@r21digital.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjimenez@r21digital.com)
 <!-- TODO: confirm LinkedIn URL, then uncomment:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-SLUG/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-SLUG/)
 -->
 
 </div>
@@ -51,9 +53,9 @@
 **Frontend & Frameworks**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0a0a14?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0a0a14?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **Backend & Data**
@@ -65,7 +67,7 @@
 
 **Cloud & DevOps**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-0a0a14?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -83,10 +85,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CDVolvik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDVolvik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CDVolvik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a14&title_color=E94560&icon_color=8B5CF6&text_color=9aa0b4" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CDVolvik&layout=compact&langs_count=8&hide_border=true&bg_color=0a0a14&title_color=E94560&text_color=9aa0b4" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CDVolvik&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CDVolvik&hide_border=true&background=0a0a14&border=13131f&stroke=E94560&ring=E94560&fire=E94560&currStreakLabel=E94560&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=9aa0b4&dates=6C6C6C" alt="GitHub Streak" />
 
 </div>
 
@@ -94,7 +96,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=CDVolvik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=CDVolvik&theme=darkhub&no-frame=true&margin-w=4&row=1&column=8" alt="GitHub Trophies" />
 
 </div>
 
@@ -102,6 +104,8 @@
 
 <div align="center">
 
-<i>⚡ Powered by R21 Digital — where strategy meets code.</i>
+<i>⚡ R21 Digital — where strategy meets code.</i>
+
+<sub>R21 Digital · <a href="https://www.r21digital.com/">r21digital.com</a></sub>
 
 </div>
