@@ -6,7 +6,7 @@
 
 <p><i>R21 Digital — Web, Automation & AI for growing businesses</i></p>
 
-`Web Development` · `AI Agents` · `Marketing Automation` · `GEO / AI-Search`
+`Web & Mobile Apps` · `AI Agents` · `Marketing Automation` · `GEO / AI-Search`
 
 <img src="https://komarev.com/ghpvc/?username=CDVolvik&color=E94560&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 
@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🏢 I run **[R21 Digital](https://www.r21digital.com/)** (R21 Media Group LLC) — a bilingual marketing, automation & AI agency based in Mesa, Arizona, building **websites, automation, and AI systems** for real businesses across the US, Puerto Rico, and Latin America.
-- 🧠 I work end-to-end: **full-stack web** (Next.js + Supabase + Vercel), **automation** (Make.com / n8n), and **AI agents** (Claude, MCP, custom pipelines).
+- 🧠 I work end-to-end: **full-stack web** (Next.js + Supabase + Vercel), **mobile apps** (Flutter + native iOS, shipped to the App Store), **automation** (Make.com / n8n), and **AI agents** (Claude, MCP, custom pipelines).
 - 🤝 Open to collaborating on **web apps, automation, and applied-AI** projects.
 - 💬 Ask me about **Next.js, Supabase, AI automation, GEO/AI-search, or agency systems**.
 - 📫 Reach me: **cjimenez@r21digital.com**
@@ -56,7 +56,15 @@
 ![Next.js](https://img.shields.io/badge/Next.js-0a0a14?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0a0a14?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+**Mobile & Apps**
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-0a0a14?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-90D26D?style=for-the-badge&logo=fastlane&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
 
 **Backend & Data**
 
