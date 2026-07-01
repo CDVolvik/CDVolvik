@@ -28,11 +28,10 @@
 <div align="left">
 
 [![Website](https://img.shields.io/badge/Website-r21digital.com-E94560?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.r21digital.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Jimenez-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-jimenez-medinilla/)
 [![X](https://img.shields.io/badge/X-@CDVolvik-0a0a14?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CDVolvik)
 [![Email](https://img.shields.io/badge/Email-cjimenez@r21digital.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cjimenez@r21digital.com)
-<!-- TODO: confirm LinkedIn URL, then uncomment:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-SLUG/)
--->
+[![R21 Digital on LinkedIn](https://img.shields.io/badge/R21_Digital-Company_Page-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/r21digital/)
 
 </div>
 
