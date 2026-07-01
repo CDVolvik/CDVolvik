@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Carlos+Jimenez+%F0%9F%91%8B;Founder+%40+R21+Digital+%F0%9F%9A%80;R21+Digital+%E2%80%94+Web%2C+Automation+%26+AI+for+growing+businesses" alt="Typing SVG" />
+<h1>Hi, I'm Carlos Jimenez 👋</h1>
+
+<h3>Founder @ R21 Digital 🚀</h3>
+
+<p><i>R21 Digital — Web, Automation & AI for growing businesses</i></p>
 
 <img src="https://komarev.com/ghpvc/?username=CDVolvik&color=7aa2f7&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 
