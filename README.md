@@ -40,13 +40,13 @@
 Client and product work I own end to end. The code isn't public, but the architecture is mine and I
 can walk anyone through it.
 
-**[PRLTA angler platform](https://apps.apple.com/us/app/prlta/id6755145709)** — Flutter, on the
-App Store since December 2025 and shipping since (currently 2.5.8). Tournament standings, catch
-logging, and vessel records for Puerto Rico Light Tackle Anglers. 154 Dart files across 17 feature modules over a shared core: a
+**[PRLTA angler platform](https://apps.apple.com/us/app/prlta/id6755145709)** — Flutter. On the App
+Store since December 2025, now at 2.5.8. Tournament standings, catch logging, and vessel records for
+Puerto Rico Light Tackle Anglers. 154 Dart files across 17 feature modules over a shared core: a
 dependency-injection container, 27 domain services, and a 12-widget component library. One codebase
-builds for iOS, Android, web, macOS, Windows, and Linux. Crash reports carry a breadcrumb buffer, so
-a report arrives with the path that produced it, not just a stack trace. Account deletion is built
-in, because App Review requires it of anything with sign-in.
+targets iOS, Android, web, macOS, Windows, and Linux; iOS is the one I ship. Crash reports carry a
+breadcrumb buffer, so a report arrives with the path that produced it, not just a stack trace.
+Account deletion is built in, because App Review requires it of anything with sign-in.
 
 **[Fantasy Tabletop Helper](https://fantasytabletophelper.com)** — Next.js + Supabase. 1,128
 TypeScript files with 390 test files, 116 migrations, three CI workflows. Installable as a PWA from
