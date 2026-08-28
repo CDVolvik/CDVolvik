@@ -4,7 +4,9 @@
 
 <p>I build web apps, mobile apps, AI agents, and MCP servers — and run them in production.</p>
 
-<sub>Founder @ <a href="https://www.r21digital.com/">R21 Digital</a> · Arizona + Puerto Rico · Bilingual EN/ES</sub>
+<sub>Founder @ <a href="https://www.r21digital.com/">R21 Digital</a> · Arizona + Puerto Rico · US Citizen · Bilingual EN/ES</sub>
+
+<sub>Open to Forward-Deployed, Applied-AI, and Solutions Engineering roles — remote.</sub>
 
 </div>
 
@@ -22,6 +24,8 @@
   codebase. When a store listing is the wrong answer, an installable PWA instead.
 - **Full-stack product.** Next.js + Supabase + Vercel on the web, Make.com / n8n for automation,
   AWS where the compliance story requires it.
+- **AI-search visibility.** Schema, llms.txt, citability, and crawler access tuned across production
+  client sites, so the model answering a query can actually reach and cite them.
 - **Enterprise IT underneath.** 15+ years, including HIPAA-regulated systems run under change
   control. It shapes how I design AI: for audit and real load, not for a demo.
 
