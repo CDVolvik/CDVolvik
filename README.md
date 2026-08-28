@@ -18,8 +18,8 @@
 - **MCP servers.** The tools that connect those agents to real systems — EHR data over FHIR,
   legislative records, game campaign state. Read-only by default, scoped by row-level security,
   audit-logged where the data is regulated.
-- **Mobile.** A Flutter app in the field since 2025, building for six targets off one codebase.
-  When a store listing is the wrong answer, I ship an installable PWA instead.
+- **Mobile.** A Flutter app on the App Store since December 2025, built for six targets off one
+  codebase. When a store listing is the wrong answer, an installable PWA instead.
 - **Full-stack product.** Next.js + Supabase + Vercel on the web, Make.com / n8n for automation,
   AWS where the compliance story requires it.
 - **Enterprise IT underneath.** 15+ years, including HIPAA-regulated systems run under change
@@ -40,12 +40,13 @@
 Client and product work I own end to end. The code isn't public, but the architecture is mine and I
 can walk anyone through it.
 
-**PRLTA angler platform** — Flutter. Tournament standings, catch logging, and vessel records for
-Puerto Rico Light Tackle Anglers. 154 Dart files across 17 feature modules over a shared core: a
+**[PRLTA angler platform](https://apps.apple.com/us/app/prlta/id6755145709)** — Flutter, on the
+App Store since December 2025 and shipping since (currently 2.5.8). Tournament standings, catch
+logging, and vessel records for Puerto Rico Light Tackle Anglers. 154 Dart files across 17 feature modules over a shared core: a
 dependency-injection container, 27 domain services, and a 12-widget component library. One codebase
 builds for iOS, Android, web, macOS, Windows, and Linux. Crash reports carry a breadcrumb buffer, so
-a report arrives with the path that produced it, not just a stack trace. In the field since
-2025.
+a report arrives with the path that produced it, not just a stack trace. Account deletion is built
+in, because App Review requires it of anything with sign-in.
 
 **[Fantasy Tabletop Helper](https://fantasytabletophelper.com)** — Next.js + Supabase. 1,128
 TypeScript files with 390 test files, 116 migrations, three CI workflows. Installable as a PWA from
