@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=E94560&center=true&vCenter=true&width=620&height=45&lines=I+build+web+apps%2C+AI+agents%2C+and+MCP+servers;and+I+run+them+in+production" alt="I build web apps, AI agents, and MCP servers — and run them in production" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=E94560&center=true&vCenter=true&width=760&height=50&lines=I+build+web+apps%2C+AI+agents%2C+and+MCP+servers;and+I+run+them+in+production" alt="I build web apps, AI agents, and MCP servers — and run them in production" />
 
 <h1>Carlos Jimenez</h1>
 
