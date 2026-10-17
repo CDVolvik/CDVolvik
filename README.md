@@ -4,7 +4,7 @@
 
 <h1>Carlos Jimenez</h1>
 
-<sub>Founder @ <a href="https://www.r21digital.com/">R21 Digital</a> · Arizona + Puerto Rico · US Citizen · Bilingual EN/ES</sub>
+<sub>Founder @ <a href="https://www.r21digital.com/">R21 Digital</a> · Arizona + Puerto Rico · Bilingual EN/ES</sub>
 
 <sub>Open to Forward-Deployed, Applied-AI, and Solutions Engineering roles — remote.</sub>
 
