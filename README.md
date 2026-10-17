@@ -32,6 +32,9 @@
   joined into something a resident of Puerto Rico can actually read.
 - **Mobile.** A Flutter app on the App Store since December 2025, built for six targets off one
   codebase. When a store listing is the wrong answer, an installable PWA instead.
+- **Game addons.** Lua inside the World of Warcraft client API: an open-data collector for
+  WoW: Forever, and upstream fixes to a leveling-guide addon. The collector records what happens;
+  the guide acts only on the player's own click. Nothing drives the character.
 - **Full-stack product.** Next.js + Supabase + Vercel on the web, Make.com / n8n for automation,
   AWS where the compliance story requires it.
 - **AI-search visibility.** Schema, llms.txt, citability, and crawler access tuned across production
@@ -47,6 +50,7 @@
 | **[pr-legislative-x402](https://github.com/CDVolvik/pr-legislative-x402)** | Pay-per-call access to structured Puerto Rico legislative data over the x402 agent-payment standard. HTTP API + MCP server. TypeScript. |
 | **[social-triage-agent](https://github.com/R21Digital/social-triage-agent)** | Multi-model social-inbox triage. Claude Haiku classifies, a deterministic keyword layer overrides it to force healthcare-safety routing, then DeepSeek drafts in brand voice. The safety layer is deliberately not a model. Python. |
 | **[ftthelper-mcp](https://github.com/CDVolvik/ftthelper-mcp)** | Connects Claude Desktop, Cursor, or Codex to [Fantasy Tabletop Helper](https://fantasytabletophelper.com) campaigns. Read-only, scoped by Postgres row-level security. Python. |
+| **[everloot](https://github.com/CDVolvik/everloot)** | Open-data companion for WoW: Forever. A Lua addon records what players see; [everloot.app](https://everloot.app) publishes a fact once at least three installs have reported it, with the count and date beside it, and answers AI assistants over MCP. AGPL-3.0 code, CC BY-SA 4.0 data. Beta; the game launches 2026-11-04. |
 | **[hermes-agent_Video-Research-Ingest](https://github.com/CDVolvik/hermes-agent_Video-Research-Ingest)** | Local-first pipeline turning videos and URLs into markdown notes, transcripts, metadata, and frames. Free-first by design — no paid transcription in the default path. Python. |
 | **[ai-engineering-stack](https://github.com/CDVolvik/ai-engineering-stack)** | The models, agent infra, RAG, voice, and app stack I actually build and ship with. Field notes, not a link dump. |
 
@@ -56,7 +60,7 @@ Client and product work I own end to end. The code isn't public, but the archite
 can walk anyone through it.
 
 **[PRLTA angler platform](https://apps.apple.com/us/app/prlta/id6755145709)** — Flutter. On the App
-Store since December 2025, now at 2.5.9. Tournament standings, catch logging, and vessel records for
+Store since December 2025, now at 2.5.10. Tournament standings, catch logging, and vessel records for
 Puerto Rico Light Tackle Anglers. 154 Dart files across 17 feature modules over a shared core: a
 dependency-injection container, 27 domain services, and a 12-widget component library. One codebase
 targets iOS, Android, web, macOS, Windows, and Linux; iOS is the one I ship. Crash reports carry a
@@ -77,27 +81,31 @@ instead of a page that quietly stops updating.
 
 ## Operating what I ship
 
-41 production sites on the books, 34 of them on Vercel, the rest mid-migration. Transactional mail
-on AWS SES. Uptime and platform drift come from a canary that measures the live response headers, so
-the registry can contradict me — and has. I learned most of what I know about designing for
-failure by being the one who gets paged.
+32 production sites on the books, 26 of them on Vercel, most of the rest mid-migration off Wix.
+Transactional mail on AWS SES. Uptime and platform drift come from a canary that measures the live
+response headers, so the registry can contradict me — and has. I learned most of what I know about
+designing for failure by being the one who gets paged.
 
 ## Upstream
 
-Merged into [Effect](https://github.com/Effect-TS/effect) ([#7154](https://github.com/Effect-TS/effect/pull/7154),
+[Polestar](https://github.com/fitzforge/polestar), a leveling-guide addon for WoW (Lua):
+[26 PRs merged](https://github.com/fitzforge/polestar/pulls?q=is%3Apr+author%3ACDVolvik+is%3Amerged+merged%3A2026-10-01..2026-10-31)
+in October 2026 and six open. Player-reported guide corrections, Windows path fixes in the data
+build, a one-key target for each step, party quest progress, and docs that say what the code does.
+
+[Effect](https://github.com/Effect-TS/effect) ([#7154](https://github.com/Effect-TS/effect/pull/7154),
 [#7166](https://github.com/Effect-TS/effect/pull/7166)) and
 [t3code](https://github.com/pingdotgg/t3code) ([#7141](https://github.com/pingdotgg/t3code/pull/7141),
-[#6223](https://github.com/pingdotgg/t3code/pull/6223)), with
-[#6228](https://github.com/pingdotgg/t3code/pull/6228) open. Mostly Windows and WSL correctness —
+[#6223](https://github.com/pingdotgg/t3code/pull/6223)). Mostly Windows and WSL correctness —
 the paths that break when the maintainers are all on macOS.
 
 ## Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,dart,postgres,nextjs,react,tailwind,flutter,supabase,nodejs,laravel,vercel,aws,githubactions,docker&theme=dark&perline=8" alt="Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,dart,lua,postgres,nextjs,react,tailwind,flutter,supabase,nodejs,laravel,vercel,aws,githubactions,docker&theme=dark&perline=9" alt="Stack" />
 </div>
 
-**Languages** TypeScript · JavaScript · Python · Dart · SQL · PHP
+**Languages** TypeScript · JavaScript · Python · Dart · Lua · SQL · PHP
 
 **Web** Next.js · React · Tailwind · shadcn/ui &nbsp;&nbsp;**Mobile** Flutter · PWA
 
